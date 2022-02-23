@@ -1,4 +1,4 @@
-## ## Olá! Eu sou o Lucas de Oliveira 🖐️
+## Olá! Eu sou o Lucas de Oliveira 🖐️
 - 
 - 🌱 Estou estuando React JS, TypeScript and Python
 - 📫 Contato: Lukasoliveiracks@gmail.com
@@ -9,10 +9,10 @@
 <div align="center">
   <a href="https://github.com/Lukasss-8888">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lukasss-8888&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukasss-8888&layout=compact&langs_count=7&theme=dark"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukasss-8888&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  ## Tecnologias que eu uso no meu dia
+  ## Tecnologias que eu uso no meu dia:
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lukas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,7 +23,7 @@
  
 </div>
   
-  ##
+  ## Contato:
  
 <div> 
  
