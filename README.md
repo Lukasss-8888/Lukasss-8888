@@ -1,7 +1,7 @@
 ## Olá! Eu meu nome é Lucas de Oliveira e sou um entusiasta do mundo da tecnologia!
 - 
-- 🌱 I’m currently learning React JS, TypeScript and Python
-- 📫 How to reach me: Lukasoliveiracks@gmail.com
+- 🌱 Estou estuando React JS, TypeScript and Python
+- 📫 Contato: Lukasoliveiracks@gmail.com
 - 😄 Pronouns: He/Him
   
   ##
