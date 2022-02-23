@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/Lukasss-8888">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lukasss-8888&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukasss-8888&layout=compact&langs_count=7&theme=dark"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukasss-8888&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ## Tecnologias que eu uso no meu dia
