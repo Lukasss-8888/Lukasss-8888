@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas de Oliveira 🖐️
 
-- 🌱 Estou estuando React JS, TypeScript and Python
+- 🌱 Estou estuando React JS, TypeScript e Python
 - 📫 Contato: Lukasoliveiracks@gmail.com
 - 😄 Pronouns: He/Him
   
