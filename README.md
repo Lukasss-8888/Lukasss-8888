@@ -1,4 +1,4 @@
-## Olá! Eu meu nome é Lucas de Oliveira e sou um entusiasta do mundo da tecnologia!
+## ## Olá! Eu sou o Lucas de Oliveira 🖐️
 - 
 - 🌱 Estou estuando React JS, TypeScript and Python
 - 📫 Contato: Lukasoliveiracks@gmail.com
