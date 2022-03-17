@@ -12,7 +12,7 @@
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukasss-8888&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  ## Tecnologias que eu uso no meu dia:
+  ## Tecnologias que eu uso atualmente:
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lukas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
