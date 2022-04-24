@@ -1,12 +1,12 @@
   ## Olá! Eu sou o Lucas de Oliveira 🖐️
 
-  String name = "Lucas de Oliveira"; 
-  int age = 19;
-  System.out.printf("Name%s\n  Age: %d\n", name, age); 
+   - String name = "Lucas de Oliveira"; 
+   - int age = 19;
+   - System.out.printf("Name%s\n  Age: %d\n", name, age); 
 
-- 🌱 Estou estuando React JS, TypeScript e NodeJS
-- 📫 Contato: Lukasoliveiracks@gmail.com
-- 😄 Pronouns: He/Him
+   - 🌱 Estou estuando React JS, TypeScript e NodeJS
+   - 📫 Contato: Lukasoliveiracks@gmail.com
+   - 😄 Pronouns: He/Him
   
   ##
 
