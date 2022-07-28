@@ -3,8 +3,10 @@
    - String name = "Lucas de Oliveira"; 
    - int age = 19;
    - System.out.printf("Name%s\n  Age: %d\n", name, age); 
-
-   - 🌱 Estou estuando React JS, TypeScript e NodeJS
+   - 🎈 Em busca de um emprego ou estágio.
+   - 👨‍🎓 Cursando Ciência da Computação.
+   - 🎨 Experiência com Design Gráfico
+   - 🌱 Atualmente estou estuando React JS, TypeScript e NodeJS.
    - 📫 Contato: Lukasoliveiracks@gmail.com
    - 😄 Pronouns: He/Him
   
